@@ -1,0 +1,11 @@
+{
+  "name": "hermes",
+  "description": "Hermes API Gateway based on Express Gateway",
+  "repository": {},
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express-gateway": "^1.16.11"
+  }
+}
