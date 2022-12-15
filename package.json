@@ -1,7 +1,10 @@
 {
   "name": "hermes",
   "description": "Hermes API Gateway based on Express Gateway",
-  "repository": {},
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/noobpk/Hermes.git" 
+  },
   "license": "MIT",
   "version": "1.0.0",
   "main": "server.js",
