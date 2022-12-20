@@ -4,6 +4,7 @@ Hermes API Gateway based on Express Gateway
 ## Plugins
 
 - [x] Body Parser
+- [x] Specific Key Auth
 
 ## Start Hermes API Gateway
 
